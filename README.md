@@ -8,5 +8,5 @@
 - [ ] [Docker] Create the docker image for the above-mentioned flask app and run the same view the page in a browser
 - [ ] [Docker] Create a docker-compose file for the above-mentioned flask app and run the same view of the page in a browser
 - [ ] [Docker] Pull one of the participant’s docker images and verify whether the app is running or not 
-- [ ] Create a GitHub account with a personal mail ID and create the repo with your register_number+22AM0XG
-- [ ] Create a LinkedIn account with personal mail ID
+- [x] Create a GitHub account with a personal mail ID and create the repo with your register_number+22AM0XG
+- [x] Create a LinkedIn account with personal mail ID
